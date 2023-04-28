@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p style="text-align: center;background-image: url('https://media.giphy.com/media/3osxYzuMvUJJcqzND2/giphy.gif');"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" srcset="" style="max-width: 40%;margin: 1px;"></p>
+<p style="text-align: center;background-image: url(['https://media.giphy.com/media/3osxYzuMvUJJcqzND2/giphy.gif'](https://media.giphy.com/media/3osxYzuMvUJJcqzND2/giphy.gif));"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" srcset="" style="max-width: 40%;margin: 1px;"></p>
 
 <h1 align="center">Hi 👋, I'm Mukul Kumar</h1>
 <h3 align="center">A passionate geek exploring new Technologies</h3>
